@@ -1,0 +1,4 @@
+baseURL = "http://andrewjohnwhitaker.com/"
+languageCode = "en-us"
+title = "Andrew's Website"
+publishDir = "docs"
