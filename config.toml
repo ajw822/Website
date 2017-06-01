@@ -34,7 +34,7 @@ url                    = "/about-me/"
 name                   = "Experience"
 weight                 = -100
 identifier             = "experience"
-url                    = "/resume.pdf/"
+url                    = "/doc/resume.pdf/"
 
 [params]
 latestpostscount       = 5                             # how many posts to display on the home page
