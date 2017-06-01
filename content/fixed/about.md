@@ -1,18 +1,14 @@
 +++
-date = "2015-08-22T06:42:21-07:00"
+date = "2017-06-01T00:00:00-05:00"
 draft = false
-title = "About"
+title = "About Me"
 
 +++
 
-Along with [Ford Prefect](https://en.wikipedia.org/wiki/Ford_Prefect_\(character\)), Dent barely escapes the Earth's destruction as it is demolished to make way for a *hyperspace bypass*. Arthur spends the next several years, still wearing his dressing gown, helplessly launched from crisis to crisis while trying to straighten out his lifestyle. 
+I am a second year Electrical and Computer Engineering Student at Northeastern University in Boston, MA. I am currently pursuing a minor in Sustainable Energy Systems, and I am very interested in the evolution of the renewables sector in Massachusetts.
 
-> He rather enjoys tea, but seems to have trouble obtaining it in the far reaches of the galaxy. 
+I am currently participating in a co-op at [Desktop Metal](https://www.desktopmetal.com); stay tuned for more on my experiences!
 
-In time, he learns how to fly and carves a niche for himself as a sandwich-maker.
-
-<img src="//placehold.it/300x300" class="profile">
+![That's me!](/img/polaroid.png)
 
 <br />
-
-[About this site](colophon/)

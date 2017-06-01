@@ -6,10 +6,30 @@
     <description>Recent content on Andrew&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 21 Dec 2015 04:05:25 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jun 2017 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="http://andrewjohnwhitaker.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About Me</title>
+      <link>http://andrewjohnwhitaker.com/about-me/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 -0500</pubDate>
+      
+      <guid>http://andrewjohnwhitaker.com/about-me/</guid>
+      <description>I am a second year Electrical and Computer Engineering Student at Northeastern University in Boston, MA. I am currently pursuing a minor in Sustainable Energy Systems, and I am very interested in the evolution of the renewables sector in Massachusetts.
+I am currently participating in a co-op at Desktop Metal; stay tuned for more on my experiences!</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>http://andrewjohnwhitaker.com/about-me.html</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 -0500</pubDate>
+      
+      <guid>http://andrewjohnwhitaker.com/about-me.html</guid>
+      <description>Hello!
+Please excuse the mess as I get my site set up.</description>
+    </item>
     
     <item>
       <title>Les Misérables by Victor Hugo</title>
@@ -42,17 +62,6 @@ Bool True or false, that which is said of men often occupies as important a plac
 $ git reset --hard @~2 $ git rebase -i @~10 $ git diff @~2..@~3  And also in most scenarios HEAD can be left out completely, so you can say:
 $ git reset -- @{2}  instead of:
 $ git reset -- HEAD@{2}  It takes some getting used to, but it&amp;rsquo;s definitely faster than typing HEAD.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://andrewjohnwhitaker.com/about/</link>
-      <pubDate>Sat, 22 Aug 2015 06:42:21 -0700</pubDate>
-      
-      <guid>http://andrewjohnwhitaker.com/about/</guid>
-      <description>Along with Ford Prefect, Dent barely escapes the Earth&amp;rsquo;s destruction as it is demolished to make way for a hyperspace bypass. Arthur spends the next several years, still wearing his dressing gown, helplessly launched from crisis to crisis while trying to straighten out his lifestyle.
- He rather enjoys tea, but seems to have trouble obtaining it in the far reaches of the galaxy.
- In time, he learns how to fly and carves a niche for himself as a sandwich-maker.</description>
     </item>
     
     <item>

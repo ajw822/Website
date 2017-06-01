@@ -31,10 +31,10 @@ identifier             = "about"
 url                    = "/about/"
 
 [[menu.main]]
-name                   = "Code"
+name                   = "Experience"
 weight                 = -100
-identifier             = "code"
-url                    = "/code/"
+identifier             = "experience"
+url                    = "/experience/"
 
 [params]
 latestpostscount       = 5                             # how many posts to display on the home page
@@ -62,5 +62,5 @@ avatar                 = "img/profile.png" # path to image in static dir e.g img
 # gravatar             = ""                # do not use in the same time as avatar
 
 # The following are DEPRECATED.
-gatracker              = "XYZ" # use googleAnalytics instead
-initials               = "ad"  # displayed on single post page; deprecated in v0.3.0.
+#gatracker              = "XYZ" # use googleAnalytics instead
+#initials               = "ad"  # displayed on single post page; deprecated in v0.3.0.
