@@ -22,46 +22,14 @@ I am currently participating in a co-op at Desktop Metal; stay tuned for more on
     </item>
     
     <item>
-      <title>About Me</title>
-      <link>http://andrewjohnwhitaker.com/about-me.html</link>
-      <pubDate>Thu, 01 Jun 2017 00:00:00 -0500</pubDate>
+      <title>Welcome!</title>
+      <link>http://andrewjohnwhitaker.com/blog/welcome/</link>
+      <pubDate>Thu, 01 Jun 2017 00:45:25 -0400</pubDate>
       
-      <guid>http://andrewjohnwhitaker.com/about-me.html</guid>
-      <description>Hello!
-Please excuse the mess as I get my site set up.</description>
-    </item>
-    
-    <item>
-      <title>Les Misérables by Victor Hugo</title>
-      <link>http://andrewjohnwhitaker.com/blog/les-mis%C3%A9rables-by-victor-hugo/</link>
-      <pubDate>Mon, 21 Dec 2015 04:05:25 -0600</pubDate>
-      
-      <guid>http://andrewjohnwhitaker.com/blog/les-mis%C3%A9rables-by-victor-hugo/</guid>
-      <description>Although this detail has no connection whatever with the real substance of what we are about to relate, it will not be superfluous, if merely for the sake of exactness in all points, to mention here the various rumors and remarks which had been in circulation about him from the very moment when he arrived in the diocese.
-Bool True or false, that which is said of men often occupies as important a place in their lives, and above all in their destinies, as that which they do.</description>
-    </item>
-    
-    <item>
-      <title>Metamorphosis by Franz Kafka</title>
-      <link>http://andrewjohnwhitaker.com/blog/metamorphosis-by-franz-kafka/</link>
-      <pubDate>Mon, 21 Dec 2015 04:03:46 -0600</pubDate>
-      
-      <guid>http://andrewjohnwhitaker.com/blog/metamorphosis-by-franz-kafka/</guid>
-      <description>Part One One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.
- He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections.
- The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked.</description>
-    </item>
-    
-    <item>
-      <title>Use @ instead of HEAD</title>
-      <link>http://andrewjohnwhitaker.com/blog/use-at-instead-of-head/</link>
-      <pubDate>Tue, 25 Aug 2015 17:09:14 -0500</pubDate>
-      
-      <guid>http://andrewjohnwhitaker.com/blog/use-at-instead-of-head/</guid>
-      <description>I recently discovered that from git version 1.8.5 onwards, @ can replace HEAD:
-$ git reset --hard @~2 $ git rebase -i @~10 $ git diff @~2..@~3  And also in most scenarios HEAD can be left out completely, so you can say:
-$ git reset -- @{2}  instead of:
-$ git reset -- HEAD@{2}  It takes some getting used to, but it&amp;rsquo;s definitely faster than typing HEAD.</description>
+      <guid>http://andrewjohnwhitaker.com/blog/welcome/</guid>
+      <description> Welcome Please bear with me as I get the site all set up.
+ &amp;ldquo;There is much pleasure to be gained from useless knowledge.&amp;rdquo; - Bertrand Russell
+ </description>
     </item>
     
     <item>
@@ -73,15 +41,6 @@ $ git reset -- HEAD@{2}  It takes some getting used to, but it&amp;rsquo;s defin
       <description>This website is a personal homepage.
 The site is built with Hugo—a static site generator made with Go. The website source code is available on GitHub. It uses the cocoa theme. The posts are written in Markdown.
 The primary font face is Open Sans and the monospace font face is Ubuntu Mono. The social icons are from the Ionicons font set. CSS classes for code syntax highlighting are inserted during compile-time by Hugo using Pygments.</description>
-    </item>
-    
-    <item>
-      <title>Code</title>
-      <link>http://andrewjohnwhitaker.com/code/</link>
-      <pubDate>Wed, 19 Aug 2015 20:29:37 -0700</pubDate>
-      
-      <guid>http://andrewjohnwhitaker.com/code/</guid>
-      <description>The Hitchhiker&amp;rsquo;s Guide to the Galaxy is a comedy science fiction series created by Douglas Adams. Originally a radio comedy broadcast on BBC Radio 4 in 1978, it was later adapted to other formats, and over several years it gradually became an international multi-media phenomenon. Adaptations have included stage shows, a &amp;ldquo;trilogy&amp;rdquo; of five books published between 1979 and 1992, a sixth novel penned by Eoin Colfer in 2009, a 1981 TV series, a 1984 computer game, and three series of three-part comic book adaptations of the first three novels published by DC Comics between 1993 and 1996.</description>
     </item>
     
     <item>

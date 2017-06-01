@@ -28,13 +28,13 @@ url                    = "/blog/"
 name                   = "About"
 weight                 = -110
 identifier             = "about"
-url                    = "/about/"
+url                    = "/about-me/"
 
 [[menu.main]]
 name                   = "Experience"
 weight                 = -100
 identifier             = "experience"
-url                    = "/experience/"
+url                    = "/doc/resume.pdf/"
 
 [params]
 latestpostscount       = 5                             # how many posts to display on the home page
@@ -56,7 +56,7 @@ selfintro              = ""                            # appears in the site hea
 #twitter                = "//twitter.com/you"
 #mastodon               = "//example.com/@you"
 # highlightjslanguages = ["go"]                        # additional languages not included in the "common" set
-# highlightjsStyle     = "darcula"
+highlightjsStyle     = "darcula"
 
 avatar                 = "img/profile.png" # path to image in static dir e.g img/avatar.png (do not use in the same time as gravatar)
 # gravatar             = ""                # do not use in the same time as avatar
