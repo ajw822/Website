@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrew&#39;s Website</title>
+    <link>http://andrewjohnwhitaker.com/</link>
+    <description>Recent content on Andrew&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 01 Jun 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="http://andrewjohnwhitaker.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>http://andrewjohnwhitaker.com/about-me/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 -0500</pubDate>
+      
+      <guid>http://andrewjohnwhitaker.com/about-me/</guid>
+      <description>I am a second year Electrical and Computer Engineering Student at Northeastern University in Boston, MA. I am currently pursuing a minor in Sustainable Energy Systems, and I am very interested in the evolution of the renewables sector in Massachusetts.
+I am currently participating in a co-op at Desktop Metal; stay tuned for more on my experiences!</description>
+    </item>
+    
+    <item>
+      <title>Welcome!</title>
+      <link>http://andrewjohnwhitaker.com/blog/welcome/</link>
+      <pubDate>Thu, 01 Jun 2017 00:45:25 -0400</pubDate>
+      
+      <guid>http://andrewjohnwhitaker.com/blog/welcome/</guid>
+      <description> Welcome Please bear with me as I get the site all set up.
+ &amp;ldquo;There is much pleasure to be gained from useless knowledge.&amp;rdquo; - Bertrand Russell
+ </description>
+    </item>
+    
+    <item>
+      <title>colophon</title>
+      <link>http://andrewjohnwhitaker.com/colophon/</link>
+      <pubDate>Sat, 22 Aug 2015 06:28:26 -0700</pubDate>
+      
+      <guid>http://andrewjohnwhitaker.com/colophon/</guid>
+      <description>This website is a personal homepage.
+The site is built with Hugo—a static site generator made with Go. The website source code is available on GitHub. It uses the cocoa theme. The posts are written in Markdown.
+The primary font face is Open Sans and the monospace font face is Ubuntu Mono. The social icons are from the Ionicons font set. CSS classes for code syntax highlighting are inserted during compile-time by Hugo using Pygments.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://andrewjohnwhitaker.com/about-this-site/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://andrewjohnwhitaker.com/about-this-site/</guid>
+      <description>    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://andrewjohnwhitaker.com/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://andrewjohnwhitaker.com/posts/</guid>
+      <description>    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://andrewjohnwhitaker.com/writing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://andrewjohnwhitaker.com/writing/</guid>
+      <description>    </description>
+    </item>
+    
+  </channel>
+</rss>
