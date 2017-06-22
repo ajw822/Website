@@ -1,2 +1,2 @@
 # Website
-Andrew Whitaker's personal website.
+Andrew Whitaker's personal website
