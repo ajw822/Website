@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academics-engineering on Andrew&#39;s Website</title>
+    <title>Engineering Projects &amp; Academic Experiences on Andrew&#39;s Website</title>
     <link>https://andrewjohnwhitaker.com/academics-engineering/</link>
-    <description>Recent content in Academics-engineering on Andrew&#39;s Website</description>
+    <description>Recent content in Engineering Projects &amp; Academic Experiences on Andrew&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 03 Dec 2019 00:12:00 -0400</lastBuildDate><atom:link href="https://andrewjohnwhitaker.com/academics-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Jan 2022 00:00:00 -0500</lastBuildDate><atom:link href="https://andrewjohnwhitaker.com/academics-engineering/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wireless Audio Control Interface - WACI</title>
       <link>https://andrewjohnwhitaker.com/academics-engineering/waci/</link>
       <pubDate>Tue, 03 Dec 2019 00:12:00 -0400</pubDate>
       
       <guid>https://andrewjohnwhitaker.com/academics-engineering/waci/</guid>
-      <description>This project was completed in Fall of 2019 as my team&amp;rsquo;s EECE senior capstone design project at Northeastern University. Included here is the abstract and associated project materials. Thanks to group members Joshua Berlin, Jess Bardio, Matan Silver, Phil Del Signore, and Lousia Beckwith as well as our advisor, Professor Bahram Shafai.
+      <description>This project was designed and assembled at Northeastern University in the fall of 2019 for my team&amp;rsquo;s EECE senior capstone design project. Included here is the abstract and associated project materials. Thanks to group members Joshua Berlin, Jess Bardio, Matan Silver, Phil Del Signore, and Lousia Beckwith as well as our advisor, Professor Bahram Shafai.
 UPDATE - WACI featured in the IEEE-HKN Bridge publication The Wireless Audio Control Interface won the IEEE Eta Kappa Nu honor society&amp;rsquo;s 2020 Senior Poster competition.</description>
     </item>
     
