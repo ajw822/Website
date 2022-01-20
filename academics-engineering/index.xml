@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academics-engineering on Andrew&#39;s Website</title>
+    <link>https://andrewjohnwhitaker.com/academics-engineering/</link>
+    <description>Recent content in Academics-engineering on Andrew&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 20 Jan 2021 00:06:25 -0400</lastBuildDate><atom:link href="https://andrewjohnwhitaker.com/academics-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wireless Audio Control Interface - WACI</title>
+      <link>https://andrewjohnwhitaker.com/academics-engineering/waci/</link>
+      <pubDate>Wed, 20 Jan 2021 00:06:25 -0400</pubDate>
+      
+      <guid>https://andrewjohnwhitaker.com/academics-engineering/waci/</guid>
+      <description>This project was completed in Fall of 2019 as a senior capstone design project for the EECE department at Northeastern University. Included here is the abstract and associated project materials to serve as part of my portfolio. Thanks to group members Joshua Berlin, Jess Bardio, Matan Silver, Phil Del Signore, and Lousia Beckwith, as well as advisor Professor Bahram Shafai.
++++
+ +++
+Abstract Musicians are increasingly utilizing digital effects to create unique sounds during live performances.</description>
+    </item>
+    
+  </channel>
+</rss>

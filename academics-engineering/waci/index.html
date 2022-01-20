@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer">
+<meta name="author" content="Andrew Whitaker">
+<meta name="description" content="This project was completed in Fall of 2019 as a senior capstone design project for the EECE department at Northeastern University. Included here is the abstract and associated project materials to serve as part of my portfolio. Thanks to group members Joshua Berlin, Jess Bardio, Matan Silver, Phil Del Signore, and Lousia Beckwith, as well as advisor Professor Bahram Shafai.
+&#43;&#43;&#43;
+ &#43;&#43;&#43;
+Abstract Musicians are increasingly utilizing digital effects to create unique sounds during live performances.">
+
+<meta property="og:title" content="Wireless Audio Control Interface - WACI" />
+<meta property="og:description" content="This project was completed in Fall of 2019 as a senior capstone design project for the EECE department at Northeastern University. Included here is the abstract and associated project materials to serve as part of my portfolio. Thanks to group members Joshua Berlin, Jess Bardio, Matan Silver, Phil Del Signore, and Lousia Beckwith, as well as advisor Professor Bahram Shafai.
+&#43;&#43;&#43;
+ &#43;&#43;&#43;
+Abstract Musicians are increasingly utilizing digital effects to create unique sounds during live performances." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://andrewjohnwhitaker.com/academics-engineering/waci/" /><meta property="article:section" content="academics-engineering" />
+<meta property="article:published_time" content="2021-01-20T00:06:25-04:00" />
+<meta property="article:modified_time" content="2021-01-20T00:06:25-04:00" />
+
+
+
+<title>
+
+
+     Wireless Audio Control Interface - WACI 
+
+</title>
+<link rel="canonical" href="https://andrewjohnwhitaker.com/academics-engineering/waci/">
+
+
+
+
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.11.0/styles/darcula.min.css">
+
+
+
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Ubuntu+Mono:400,400i,700,700i|Raleway:500">
+
+
+
+    
+    <link rel="stylesheet" href="https://andrewjohnwhitaker.com/css/reset.css?t=2022-01-20%2002%3a54%3a31.669858%20-0500%20EST%20m%3d%2b0.077758501">
+    <link rel="stylesheet" href="https://andrewjohnwhitaker.com/css/pygments.css?t=2022-01-20%2002%3a54%3a31.669858%20-0500%20EST%20m%3d%2b0.077758501">
+    <link rel="stylesheet" href="https://andrewjohnwhitaker.com/css/main.css?t=2022-01-20%2002%3a54%3a31.669858%20-0500%20EST%20m%3d%2b0.077758501">
+    
+        <link rel="stylesheet" href="https://andrewjohnwhitaker.com/css/override.css?t=2022-01-20%2002%3a54%3a31.669858%20-0500%20EST%20m%3d%2b0.077758501">
+    
+
+
+
+
+<link rel="shortcut icon"
+
+    href="https://andrewjohnwhitaker.com/img/sim.ico"
+
+>
+
+
+
+
+</head>
+
+
+<body lang="en">
+
+<section class="header">
+    <div class="container">
+        <div class="content">
+            
+                
+                
+                
+                
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                        
+                    
+                
+                    
+                        
+                    
+                
+                    
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                
+                <a href="https://andrewjohnwhitaker.com/"><img class="avatar" src="https://andrewjohnwhitaker.com/img/profile.png" srcset="https://andrewjohnwhitaker.com/img/profile.png 1x,https://andrewjohnwhitaker.com/img/profile-2x.png 2x,https://andrewjohnwhitaker.com/img/profile-3x.png 3x,https://andrewjohnwhitaker.com/img/profile-4x.png 4x"></a>
+            
+            <a href="https://andrewjohnwhitaker.com/"><div class="name">Andrew Whitaker</div></a>
+            
+            <nav>
+                <ul>
+                    
+                        <li class="nav-life-adventures"><a href="https://andrewjohnwhitaker.com/life-adventures/"><span>Adventures</span></a></li>
+                    
+                        <li class="nav-academics-engineering"><a href="https://andrewjohnwhitaker.com/academics-engineering/"><span>Engineering</span></a></li>
+                    
+                        <li class="nav-misc"><a href="https://andrewjohnwhitaker.com/misc/"><span>Musings</span></a></li>
+                    
+                        <li class="nav-about"><a href="https://andrewjohnwhitaker.com/about-me/"><span>About</span></a></li>
+                    
+                        <li class="nav-resume"><a href="https://andrewjohnwhitaker.com/resume/"><span>Resume</span></a></li>
+                    
+                </ul>
+            </nav>
+        </div>
+    </div>
+</section>
+
+<section class="icons">
+    <div class="container">
+        <div class="content">
+
+        
+            <a href="//github.com/ajw822" target="_blank" rel="noopener"><img class="icon" src="https://andrewjohnwhitaker.com/img/github.svg" alt="github" /></a>
+        
+
+        
+
+        
+
+        
+            <a href="//linkedin.com/in/andrewjwhitaker" target="_blank" rel="noopener"><img class="icon" src="https://andrewjohnwhitaker.com/img/linkedin.svg" alt="linkedin" /></a>
+        
+
+        
+
+        
+
+        
+            <a href="mailto:ajwhitaker822@gmail.com"><img class="icon" src="https://andrewjohnwhitaker.com/img/email.svg" alt="email" /></a>
+        
+
+        
+            <a href="https://andrewjohnwhitaker.com/index.xml"><img class="icon" src="https://andrewjohnwhitaker.com/img/rss.svg" alt="rss" /></a>
+        
+        
+        </div>
+    </div>
+</section>
+
+<section class="main">
+    <div class="container">
+        <div class="content">
+            <div class="page-heading">
+
+    Wireless Audio Control Interface - WACI
+
+</div>
+
+            <div class="markdown">
+                <p>This project was completed in Fall of 2019 as a senior capstone design project for the EECE department at Northeastern University. Included here is the abstract and associated project materials to serve as part of my portfolio. Thanks to group members Joshua Berlin, Jess Bardio, Matan Silver, Phil Del Signore, and Lousia Beckwith, as well as advisor Professor Bahram Shafai.</p>
+<p>+++</p>
+<iframe src="https://drive.google.com/file/d/15Egskykh9sdKxEe_qLGLHH27WvY8OFgq/preview" style="margin: auto; display: block;" width="512" height="384"></iframe>
+<p>+++</p>
+<h3 id="abstract">Abstract</h3>
+<p>Musicians are increasingly utilizing digital effects to create unique sounds during live performances. In a band with many performers, a dedicated technician will typically operate the audio system; a portable, customizable system allowing all musicians to fine-tune their effects in real time does not currently exist on the market. To bridge this gap and introduce a lower-budget solution, the Wireless Audio Control Interface (WACI) system implements a new method for controlling and mixing audio using conventional performance software. The WACI system consists of a central Hub that can connect to many wireless Modules to suit users’ needs. The system doubles as a 6-input, 8-output audio interface with MIDI support. In this system, each musician can have a Module to control their own effect models, while the Hub provides a central processing link for all instruments.</p>
+<p>The Hub is a circuit board developed by this capstone group that contains all electronic subsystems necessary for live audio processing. Four XLR/TRS combo jacks allow instruments or microphones to be plugged directly into the board. The Hub also includes circuitry to power devices such as microphones that require a 48V “phantom power” supply. These analog signals are converted to high-resolution digital representations at up to 194kSPS/24bit and sent to a computer over USB for effects processing. The commands to apply and alter these effects are sent to the Hub, and then to the computer over USB-MIDI, from wireless Modules via an 802.11 WiFi connection. Finally, processed digital audio streams are sent from the computer to the Hub over USB, where the Hub converts them back to analog signals and outputs them to speakers or an amplifier. The USB connection is managed by the main microprocessor, whose firmware implements USB Audio Class 2 over a Type C connector for native operation in Windows 10 or MacOS. The Hub is powered by a standard 12V DC wall adapter.</p>
+<p>The Modules are wireless control panels resembling guitar pedals or control panels that musicians can use to remotely adjust audio parameters on the computer. Each Module is battery-powered and has reassignable physical controls. Module hardware configurations include pushbuttons, sliders, knobs, and foot pedals, allowing for various modes of adjustment that feel natural to a musician. Each Module has a display to show status information. The Module circuit boards were developed during the capstone term.</p>
+<p>Finally, the WACI system is managed by a custom cross-platform desktop application with the ability to connect Modules and manage settings, such as Module names and MIDI commands. The desktop application also displays critical Module status information, including battery charge level and wireless signal strength. Based on configurations made in the desktop application, the Modules can wirelessly update effects running in any audio processing software.</p>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.11.0/highlight.min.js"></script>
+  
+
+  <script type="text/javascript">
+    hljs.initHighlightingOnLoad();
+  </script>
+
+
+
+
+</body>
+</html>
+

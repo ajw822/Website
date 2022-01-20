@@ -37,22 +37,23 @@
     </item>
     
     <item>
-      <title>Welcome! - engineering edition</title>
-      <link>https://andrewjohnwhitaker.com/engineering/welcome/</link>
-      <pubDate>Sat, 01 Jun 2019 00:45:25 -0400</pubDate>
+      <title>Wireless Audio Control Interface - WACI</title>
+      <link>https://andrewjohnwhitaker.com/academics-engineering/waci/</link>
+      <pubDate>Wed, 20 Jan 2021 00:06:25 -0400</pubDate>
       
-      <guid>https://andrewjohnwhitaker.com/engineering/welcome/</guid>
-      <description>Welcome Please bear with me as I get the site all set up.
- &amp;ldquo;There is much pleasure to be gained from useless knowledge.&amp;rdquo; - Bertrand Russell
- </description>
+      <guid>https://andrewjohnwhitaker.com/academics-engineering/waci/</guid>
+      <description>This project was completed in Fall of 2019 as a senior capstone design project for the EECE department at Northeastern University. Included here is the abstract and associated project materials to serve as part of my portfolio. Thanks to group members Joshua Berlin, Jess Bardio, Matan Silver, Phil Del Signore, and Lousia Beckwith, as well as advisor Professor Bahram Shafai.
++++
+ +++
+Abstract Musicians are increasingly utilizing digital effects to create unique sounds during live performances.</description>
     </item>
     
     <item>
       <title>Welcome! - Adventure edition</title>
-      <link>https://andrewjohnwhitaker.com/adventures/welcome/</link>
+      <link>https://andrewjohnwhitaker.com/life-adventures/welcome/</link>
       <pubDate>Fri, 01 Jun 2018 00:45:25 -0400</pubDate>
       
-      <guid>https://andrewjohnwhitaker.com/adventures/welcome/</guid>
+      <guid>https://andrewjohnwhitaker.com/life-adventures/welcome/</guid>
       <description>Welcome Please bear with me as I get the site all set up.
  &amp;ldquo;Adventure is out there!&amp;rdquo; - Russell
  </description>
