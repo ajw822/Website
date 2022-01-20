@@ -26,24 +26,35 @@
     </item>
     
     <item>
-      <title>Welcome!</title>
-      <link>https://andrewjohnwhitaker.com/adventures/welcome/</link>
-      <pubDate>Thu, 01 Jun 2017 00:45:25 -0400</pubDate>
+      <title>Random!</title>
+      <link>https://andrewjohnwhitaker.com/misc/welcome/</link>
+      <pubDate>Tue, 01 Jun 2021 00:45:25 -0400</pubDate>
       
-      <guid>https://andrewjohnwhitaker.com/adventures/welcome/</guid>
+      <guid>https://andrewjohnwhitaker.com/misc/welcome/</guid>
       <description>Welcome Please bear with me as I get the site all set up.
  &amp;ldquo;There is much pleasure to be gained from useless knowledge.&amp;rdquo; - Bertrand Russell
  </description>
     </item>
     
     <item>
-      <title>Welcome!</title>
+      <title>Welcome! - engineering edition</title>
       <link>https://andrewjohnwhitaker.com/engineering/welcome/</link>
-      <pubDate>Thu, 01 Jun 2017 00:45:25 -0400</pubDate>
+      <pubDate>Sat, 01 Jun 2019 00:45:25 -0400</pubDate>
       
       <guid>https://andrewjohnwhitaker.com/engineering/welcome/</guid>
       <description>Welcome Please bear with me as I get the site all set up.
  &amp;ldquo;There is much pleasure to be gained from useless knowledge.&amp;rdquo; - Bertrand Russell
+ </description>
+    </item>
+    
+    <item>
+      <title>Welcome! - Adventure edition</title>
+      <link>https://andrewjohnwhitaker.com/adventures/welcome/</link>
+      <pubDate>Fri, 01 Jun 2018 00:45:25 -0400</pubDate>
+      
+      <guid>https://andrewjohnwhitaker.com/adventures/welcome/</guid>
+      <description>Welcome Please bear with me as I get the site all set up.
+ &amp;ldquo;Adventure is out there!&amp;rdquo; - Russell
  </description>
     </item>
     
