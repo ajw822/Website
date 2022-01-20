@@ -27,10 +27,21 @@
     
     <item>
       <title>Welcome!</title>
-      <link>https://andrewjohnwhitaker.com/blog/welcome/</link>
+      <link>https://andrewjohnwhitaker.com/adventures/welcome/</link>
       <pubDate>Thu, 01 Jun 2017 00:45:25 -0400</pubDate>
       
-      <guid>https://andrewjohnwhitaker.com/blog/welcome/</guid>
+      <guid>https://andrewjohnwhitaker.com/adventures/welcome/</guid>
+      <description>Welcome Please bear with me as I get the site all set up.
+ &amp;ldquo;There is much pleasure to be gained from useless knowledge.&amp;rdquo; - Bertrand Russell
+ </description>
+    </item>
+    
+    <item>
+      <title>Welcome!</title>
+      <link>https://andrewjohnwhitaker.com/engineering/welcome/</link>
+      <pubDate>Thu, 01 Jun 2017 00:45:25 -0400</pubDate>
+      
+      <guid>https://andrewjohnwhitaker.com/engineering/welcome/</guid>
       <description>Welcome Please bear with me as I get the site all set up.
  &amp;ldquo;There is much pleasure to be gained from useless knowledge.&amp;rdquo; - Bertrand Russell
  </description>
