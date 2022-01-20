@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://andrewjohnwhitaker.com/about-me/</loc>
-    <lastmod>2022-01-20T00:00:00-05:00</lastmod>
-  </url><url>
     <loc>https://andrewjohnwhitaker.com/</loc>
     <lastmod>2022-01-20T00:00:00-05:00</lastmod>
   </url><url>
@@ -35,12 +32,6 @@
     <loc>https://andrewjohnwhitaker.com/life-adventures/erie2021/</loc>
     <lastmod>2021-05-06T23:45:25-04:00</lastmod>
   </url><url>
-    <loc>https://andrewjohnwhitaker.com/categories/misc/</loc>
-    <lastmod>2021-01-20T00:45:25-04:00</lastmod>
-  </url><url>
-    <loc>https://andrewjohnwhitaker.com/misc/welcome/</loc>
-    <lastmod>2021-01-20T00:45:25-04:00</lastmod>
-  </url><url>
     <loc>https://andrewjohnwhitaker.com/categories/academics-engineering/</loc>
     <lastmod>2019-12-03T00:12:00-04:00</lastmod>
   </url><url>
@@ -49,6 +40,12 @@
   </url><url>
     <loc>https://andrewjohnwhitaker.com/themecredit/</loc>
     <lastmod>2017-08-22T06:28:26-07:00</lastmod>
+  </url><url>
+    <loc>https://andrewjohnwhitaker.com/categories/misc/</loc>
+    <lastmod>2017-06-22T17:45:25-04:00</lastmod>
+  </url><url>
+    <loc>https://andrewjohnwhitaker.com/misc/welcome/</loc>
+    <lastmod>2017-06-22T17:45:25-04:00</lastmod>
   </url><url>
     <loc>https://andrewjohnwhitaker.com/tags/</loc>
   </url>

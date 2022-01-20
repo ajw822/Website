@@ -8,16 +8,6 @@
     <language>en-US</language>
     <lastBuildDate>Thu, 20 Jan 2022 00:00:00 -0500</lastBuildDate><atom:link href="https://andrewjohnwhitaker.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About Me</title>
-      <link>https://andrewjohnwhitaker.com/about-me/</link>
-      <pubDate>Thu, 20 Jan 2022 00:00:00 -0500</pubDate>
-      
-      <guid>https://andrewjohnwhitaker.com/about-me/</guid>
-      <description>I am a 2020 graduate of Northeastern University, with a combined major in Electrical and Computer Engineering. Since graduating, I have been working as an electrical engineer with Lockheed Martin&amp;rsquo;s Advanced Energy Storage division in Andover, MA, which is currently focused on the Gridstar Flow line of solutions.
-In my free time I am an avid bicycle tourist, amateur bicycle mechanic, and all-around tinkerer. You can find me assembling guitars, practicing the saxophone, or 3D printing when I have the chance.</description>
-    </item>
-    
-    <item>
       <title>Resume</title>
       <link>https://andrewjohnwhitaker.com/resume/</link>
       <pubDate>Thu, 20 Jan 2022 00:00:00 -0500</pubDate>
@@ -45,17 +35,6 @@ In my free time I am an avid bicycle tourist, amateur bicycle mechanic, and all-
     </item>
     
     <item>
-      <title>On the topic of getting started</title>
-      <link>https://andrewjohnwhitaker.com/misc/welcome/</link>
-      <pubDate>Wed, 20 Jan 2021 00:45:25 -0400</pubDate>
-      
-      <guid>https://andrewjohnwhitaker.com/misc/welcome/</guid>
-      <description>Welcome Please bear with me as I get the site all set up.
- &amp;ldquo;There is much pleasure to be gained from useless knowledge.&amp;rdquo; - Bertrand Russell
- </description>
-    </item>
-    
-    <item>
       <title>Wireless Audio Control Interface - WACI</title>
       <link>https://andrewjohnwhitaker.com/academics-engineering/waci/</link>
       <pubDate>Tue, 03 Dec 2019 00:12:00 -0400</pubDate>
@@ -74,6 +53,17 @@ UPDATE - WACI featured in the IEEE-HKN Bridge publication The Wireless Audio Con
       <description>This website is a personal homepage.
 The site is built with Hugo—a static site generator made with Go. The website source code is available on GitHub. It uses the cocoa theme. The posts are written in Markdown.
 The primary font face is Open Sans and the monospace font face is Ubuntu Mono. The social icons are from the Ionicons font set. CSS classes for code syntax highlighting are inserted during compile-time by Hugo using Pygments.</description>
+    </item>
+    
+    <item>
+      <title>On the topic of getting started</title>
+      <link>https://andrewjohnwhitaker.com/misc/welcome/</link>
+      <pubDate>Thu, 22 Jun 2017 17:45:25 -0400</pubDate>
+      
+      <guid>https://andrewjohnwhitaker.com/misc/welcome/</guid>
+      <description>Welcome Please bear with me as I get the site all set up.
+ &amp;ldquo;There is much pleasure to be gained from useless knowledge.&amp;rdquo; - Bertrand Russell
+ </description>
     </item>
     
   </channel>

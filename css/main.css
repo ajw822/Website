@@ -521,7 +521,7 @@ section.main {
   }
   section.header {
     padding-top: 60px;
-    padding-bottom: 60px;
+    padding-bottom: 10px;
   }
   section.icons {
     padding-top: 60px;
