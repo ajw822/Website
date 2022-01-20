@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>life-adventures on Andrew&#39;s Website</title>
+    <link>https://andrewjohnwhitaker.com/categories/life-adventures/</link>
+    <description>Recent content in life-adventures on Andrew&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 02 Jun 2021 23:45:25 -0400</lastBuildDate><atom:link href="https://andrewjohnwhitaker.com/categories/life-adventures/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Great Allegheny Passage / C&amp;O Canal Tour 2021</title>
+      <link>https://andrewjohnwhitaker.com/life-adventures/gapco2021/</link>
+      <pubDate>Wed, 02 Jun 2021 23:45:25 -0400</pubDate>
+      
+      <guid>https://andrewjohnwhitaker.com/life-adventures/gapco2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erie Canal Tour 2021</title>
+      <link>https://andrewjohnwhitaker.com/life-adventures/erie2021/</link>
+      <pubDate>Thu, 06 May 2021 23:45:25 -0400</pubDate>
+      
+      <guid>https://andrewjohnwhitaker.com/life-adventures/erie2021/</guid>
+      <description> </description>
+    </item>
+    
+  </channel>
+</rss>

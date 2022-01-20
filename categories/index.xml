@@ -5,6 +5,34 @@
     <link>https://andrewjohnwhitaker.com/categories/</link>
     <description>Recent content in Categories on Andrew&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language><atom:link href="https://andrewjohnwhitaker.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <lastBuildDate>Wed, 02 Jun 2021 23:45:25 -0400</lastBuildDate><atom:link href="https://andrewjohnwhitaker.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>life-adventures</title>
+      <link>https://andrewjohnwhitaker.com/categories/life-adventures/</link>
+      <pubDate>Wed, 02 Jun 2021 23:45:25 -0400</pubDate>
+      
+      <guid>https://andrewjohnwhitaker.com/categories/life-adventures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>misc</title>
+      <link>https://andrewjohnwhitaker.com/categories/misc/</link>
+      <pubDate>Tue, 01 Jun 2021 00:45:25 -0400</pubDate>
+      
+      <guid>https://andrewjohnwhitaker.com/categories/misc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>academics-engineering</title>
+      <link>https://andrewjohnwhitaker.com/categories/academics-engineering/</link>
+      <pubDate>Tue, 03 Dec 2019 00:12:00 -0400</pubDate>
+      
+      <guid>https://andrewjohnwhitaker.com/categories/academics-engineering/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
