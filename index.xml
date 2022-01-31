@@ -28,6 +28,16 @@
     </item>
     
     <item>
+      <title>NEW W.I.P - MBTA Tracking Displays</title>
+      <link>https://andrewjohnwhitaker.com/academics-engineering/trainmap/</link>
+      <pubDate>Wed, 19 Jan 2022 11:59:00 -0400</pubDate>
+      
+      <guid>https://andrewjohnwhitaker.com/academics-engineering/trainmap/</guid>
+      <description>Timetables from your living room! The Green Line Extension is headed to my neighborhood, and I wanted to celebrate as well as flex my ECE muscles. What better way to do so than to learn how to use the MBTA API?
+I have seen projects in the past that represent transit data on some sort of hardware map. This project is my own interpretation of this idea, with hardware and software that I am creating from scratch.</description>
+    </item>
+    
+    <item>
       <title>App Recaps for 2021</title>
       <link>https://andrewjohnwhitaker.com/misc/recaps2021/</link>
       <pubDate>Fri, 31 Dec 2021 00:45:25 -0400</pubDate>
