@@ -24,7 +24,7 @@
       
       <guid>https://andrewjohnwhitaker.com/misc/vinyl/</guid>
       <description>Groovy Spinning Circles I&amp;rsquo;ll start by saying that I can be a bit obsessive about my hobbies. When I say that I mean a few things:
- I could talk about them for hours on end (and sometimes do) I frequently think about what I want to do next (in other words, by hobbies usually grow in scale over time) I am a bit of an idealist when it comes to things I own (who doesn&amp;rsquo;t want their money&amp;rsquo;s and time&amp;rsquo;s worth?</description>
+ I could talk about them for hours on end (and sometimes do) I frequently think about what I want to do next (in other words, my hobbies usually grow in scale over time) I am a bit of an idealist when it comes to things I own (who doesn&amp;rsquo;t want their money&amp;rsquo;s and time&amp;rsquo;s worth?</description>
     </item>
     
     <item>
@@ -67,16 +67,6 @@ I would highly recommend taking this class yourself if this is a topic relevant 
     </item>
     
     <item>
-      <title>Hand-Building Electric Guitars</title>
-      <link>https://andrewjohnwhitaker.com/academics-engineering/customguitars/</link>
-      <pubDate>Sun, 24 Jan 2021 19:00:00 -0400</pubDate>
-      
-      <guid>https://andrewjohnwhitaker.com/academics-engineering/customguitars/</guid>
-      <description>Intro One of my first experiences with soldering and workbench troubleshooting skills came from an electric guitar I received in middle school. A great deal discovered on Craigslist by my father and uncle, it was an intermediate model with a number of upgrades available on guitars five times its price. However, something was never quite right about how it sounded, and my playing wasn&amp;rsquo;t the sole offender.
-Fast-forward to one day during my senior year of high school, when I plugged the guitar in only to get nothing out.</description>
-    </item>
-    
-    <item>
       <title>Wireless Audio Control Interface - WACI</title>
       <link>https://andrewjohnwhitaker.com/academics-engineering/waci/</link>
       <pubDate>Tue, 03 Dec 2019 00:12:00 -0400</pubDate>
@@ -106,6 +96,16 @@ This project was designed and assembled at Northeastern University in the fall o
       <description>This website is a personal homepage.
 The site is built with Hugo—a static site generator made with Go. The website source code is available on GitHub. It uses the cocoa theme. The posts are written in Markdown.
 The primary font face is Open Sans and the monospace font face is Ubuntu Mono. The social icons are from the Ionicons font set. CSS classes for code syntax highlighting are inserted during compile-time by Hugo using Pygments.</description>
+    </item>
+    
+    <item>
+      <title>Hand-Building Electric Guitars</title>
+      <link>https://andrewjohnwhitaker.com/academics-engineering/customguitars/</link>
+      <pubDate>Wed, 30 Dec 2015 19:00:00 -0400</pubDate>
+      
+      <guid>https://andrewjohnwhitaker.com/academics-engineering/customguitars/</guid>
+      <description>This post combines many guitar projects I have done, ranging from my first major build on December 30, 2015 to the present day.
+Intro One of my first experiences with soldering and workbench troubleshooting skills came from an electric guitar I received in middle school. A great deal discovered on Craigslist by my father and uncle, it was an intermediate model with a number of upgrades available on guitars five times its price.</description>
     </item>
     
   </channel>
